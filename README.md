@@ -1,1 +1,0 @@
-# uralgo2.github.io
