@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.706dbdac.css",
+    "main.js": "/static/js/main.77058a5e.js",
+    "static/js/787.c7262313.chunk.js": "/static/js/787.c7262313.chunk.js",
+    "static/media/Backpack.svg": "/static/media/Backpack.70fcd3f704702e6b2d058c4772ef8a15.svg",
+    "static/media/Shield.svg": "/static/media/Shield.982b20fe35fc4d8cdf0807a128834596.svg",
+    "static/media/Glass.svg": "/static/media/Glass.92dc34e07f4ca6b64f494e62b68bd6d4.svg",
+    "static/media/Graph.svg": "/static/media/Graph.6f6513420c102196dcd7ee2dd8d0f25a.svg",
+    "static/media/UserAvatar.svg": "/static/media/UserAvatar.38e942544a9b5eed24b6cf4c4e21c366.svg",
+    "static/media/Card.svg": "/static/media/Card.4f914c764f47ae0e8378a45063ce4b44.svg",
+    "static/media/Lamp.svg": "/static/media/Lamp.59e46b6b0f991a9b5507b6a9f9e446ec.svg",
+    "static/media/Notebook.svg": "/static/media/Notebook.c89ca5176e6f50577fd073c65f89fa37.svg",
+    "static/media/Case.svg": "/static/media/Case.31b8c49b01aba21b6ce6077429f6a5eb.svg",
+    "static/media/vulkan_mobile.svg": "/static/media/vulkan_mobile.0247a1ad9cc97623998defc71b270167.svg",
+    "static/media/vulkan.svg": "/static/media/vulkan.28f72083e0fd9f85f13d0ceaa5318177.svg",
+    "static/media/RightBubble.png": "/static/media/RightBubble.e97b41131d4950b84597.png",
+    "static/media/LeftBubble.png": "/static/media/LeftBubble.51744f1800a5826a64cf.png",
+    "static/media/Social.svg": "/static/media/Social.aea4132aa0c204390acfe9361bb3bdcf.svg",
+    "static/media/TargetMark.svg": "/static/media/TargetMark.5254690b81008e455116a18f58dfddb5.svg",
+    "static/media/RegionMark.svg": "/static/media/RegionMark.257bedd719ba64007950dfc34cf8ce60.svg",
+    "static/media/YouTubeIcon.svg": "/static/media/YouTubeIcon.3d9b0ca525f657ec8e1268937ff4faec.svg",
+    "index.html": "/index.html",
+    "static/media/PlayerButtonStart.svg": "/static/media/PlayerButtonStart.8a99a93e38ab317978c30a111c369470.svg",
+    "static/media/VKIcon.svg": "/static/media/VKIcon.30060b0cb4235a9b1a97d4c7037097d4.svg",
+    "static/media/TelegramIcon.svg": "/static/media/TelegramIcon.953eeb95bffeab65d7830a12ef2dedb3.svg",
+    "static/media/PlayerArrow.svg": "/static/media/PlayerArrow.4bdec122359bbc33bfccc01c2bee8e47.svg",
+    "static/media/ArrowUp.svg": "/static/media/ArrowUp.3593673ad0938407197d.svg",
+    "static/media/ArrowDown.svg": "/static/media/ArrowDown.e18b5d42fba43e2a50a8.svg",
+    "main.706dbdac.css.map": "/static/css/main.706dbdac.css.map",
+    "main.77058a5e.js.map": "/static/js/main.77058a5e.js.map",
+    "787.c7262313.chunk.js.map": "/static/js/787.c7262313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706dbdac.css",
+    "static/js/main.77058a5e.js"
+  ]
+}
