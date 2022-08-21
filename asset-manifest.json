@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.374c1e49.css",
-    "main.js": "/static/js/main.1247a7c2.js",
+    "main.css": "/static/css/main.2265f9dd.css",
+    "main.js": "/static/js/main.7fbb1278.js",
     "static/js/787.c7262313.chunk.js": "/static/js/787.c7262313.chunk.js",
     "static/media/Backpack.svg": "/static/media/Backpack.70fcd3f704702e6b2d05.svg",
     "static/media/BackpackFocus.svg": "/static/media/BackpackFocus.e98f20fc02dee98b51b7.svg",
@@ -31,12 +31,12 @@
     "static/media/PlayerArrow.svg": "/static/media/PlayerArrow.4bdec122359bbc33bfccc01c2bee8e47.svg",
     "static/media/ArrowUp.svg": "/static/media/ArrowUp.3593673ad0938407197d.svg",
     "static/media/ArrowDown.svg": "/static/media/ArrowDown.e18b5d42fba43e2a50a8.svg",
-    "main.374c1e49.css.map": "/static/css/main.374c1e49.css.map",
-    "main.1247a7c2.js.map": "/static/js/main.1247a7c2.js.map",
+    "main.2265f9dd.css.map": "/static/css/main.2265f9dd.css.map",
+    "main.7fbb1278.js.map": "/static/js/main.7fbb1278.js.map",
     "787.c7262313.chunk.js.map": "/static/js/787.c7262313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.374c1e49.css",
-    "static/js/main.1247a7c2.js"
+    "static/css/main.2265f9dd.css",
+    "static/js/main.7fbb1278.js"
   ]
 }
