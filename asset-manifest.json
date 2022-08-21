@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b0c7cc5.css",
-    "main.js": "/static/js/main.77ddda68.js",
+    "main.css": "/static/css/main.374c1e49.css",
+    "main.js": "/static/js/main.1247a7c2.js",
     "static/js/787.c7262313.chunk.js": "/static/js/787.c7262313.chunk.js",
     "static/media/Backpack.svg": "/static/media/Backpack.70fcd3f704702e6b2d05.svg",
     "static/media/BackpackFocus.svg": "/static/media/BackpackFocus.e98f20fc02dee98b51b7.svg",
@@ -14,6 +14,7 @@
     "static/media/Card.svg": "/static/media/Card.4f914c764f47ae0e8378a45063ce4b44.svg",
     "static/media/Lamp.svg": "/static/media/Lamp.59e46b6b0f991a9b5507b6a9f9e446ec.svg",
     "static/media/Notebook.svg": "/static/media/Notebook.c89ca5176e6f50577fd073c65f89fa37.svg",
+    "static/media/YouTubePreview.png": "/static/media/YouTubePreview.dc786c2e6c1b328c0fc2.png",
     "static/media/Case.svg": "/static/media/Case.31b8c49b01aba21b6ce6077429f6a5eb.svg",
     "static/media/vulkan_mobile.svg": "/static/media/vulkan_mobile.0247a1ad9cc97623998defc71b270167.svg",
     "static/media/vulkan.svg": "/static/media/vulkan.28f72083e0fd9f85f13d0ceaa5318177.svg",
@@ -30,12 +31,12 @@
     "static/media/PlayerArrow.svg": "/static/media/PlayerArrow.4bdec122359bbc33bfccc01c2bee8e47.svg",
     "static/media/ArrowUp.svg": "/static/media/ArrowUp.3593673ad0938407197d.svg",
     "static/media/ArrowDown.svg": "/static/media/ArrowDown.e18b5d42fba43e2a50a8.svg",
-    "main.3b0c7cc5.css.map": "/static/css/main.3b0c7cc5.css.map",
-    "main.77ddda68.js.map": "/static/js/main.77ddda68.js.map",
+    "main.374c1e49.css.map": "/static/css/main.374c1e49.css.map",
+    "main.1247a7c2.js.map": "/static/js/main.1247a7c2.js.map",
     "787.c7262313.chunk.js.map": "/static/js/787.c7262313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b0c7cc5.css",
-    "static/js/main.77ddda68.js"
+    "static/css/main.374c1e49.css",
+    "static/js/main.1247a7c2.js"
   ]
 }
