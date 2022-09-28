@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88530b94.css",
-    "main.js": "/static/js/main.d5ffc4eb.js",
+    "main.css": "/static/css/main.426f57ce.css",
+    "main.js": "/static/js/main.75fe6d20.js",
     "static/js/787.fbb8d221.chunk.js": "/static/js/787.fbb8d221.chunk.js",
     "static/media/tinkoff-icon.svg": "/static/media/tinkoff-icon.ddbe016faa8ba8a2224e.svg",
     "static/media/player-preview.png": "/static/media/player-preview.388772cc8c182d846099.png",
@@ -69,12 +69,12 @@
     "static/media/scrollbar-arrow-left.svg": "/static/media/scrollbar-arrow-left.53510d41a184a1457eb6.svg",
     "static/media/scrollbar-arrow-right.svg": "/static/media/scrollbar-arrow-right.d2a7a60a46a6ba86347a.svg",
     "static/media/scrollbar-arrow-up.svg": "/static/media/scrollbar-arrow-up.330cf9fb96fb23f13cbd.svg",
-    "main.88530b94.css.map": "/static/css/main.88530b94.css.map",
-    "main.d5ffc4eb.js.map": "/static/js/main.d5ffc4eb.js.map",
+    "main.426f57ce.css.map": "/static/css/main.426f57ce.css.map",
+    "main.75fe6d20.js.map": "/static/js/main.75fe6d20.js.map",
     "787.fbb8d221.chunk.js.map": "/static/js/787.fbb8d221.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88530b94.css",
-    "static/js/main.d5ffc4eb.js"
+    "static/css/main.426f57ce.css",
+    "static/js/main.75fe6d20.js"
   ]
 }
